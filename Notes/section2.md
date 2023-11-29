@@ -13,10 +13,16 @@ pip3 install matplotlib numpy pylzma ipykernel jupyter
 
 2) Install pytorch's python3 packages. PyTorch is a framework renowned for utilizing GPUs and CPUs for machine learning projects.
 
-Based on the following section in the Pytorch documentation, the cuda cores from Google Colab's GPU can be imported into the conda working environment by installing the following:
+Based on the following section in the Pytorch documentation for starting [locally](https://pytorch.org/get-started/locally/)<sup>[1]</sup>, the cuda cores from Google Colab's GPU can be imported into the conda working environment by installing the following:
 
 ![Alt text](../img/screnshot_PyTorch_Build.png)
 
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
+
+## REFERENCES
+[1]
+“PyTorch,” www.pytorch.org. https://pytorch.org/get-started/locally/
+
+‌

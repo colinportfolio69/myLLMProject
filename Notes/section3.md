@@ -8,8 +8,7 @@ Inside Jupyter-notebook, by navigating to Kernel --> Change kernel, it is shown 
 2) The project requires that jupyter-notebook use the conda environment's ipyt hon kernel instead of the default one. This
 is because PyTorch was installed into the conda environment, hence that's the location to access Google Colab GPU.
 
-3) Reading source: https://ipython.readthedocs.io/en/stable/install/kernel_install.html
-IPython kernel's documentation suggests that in order to use a conda or virtual python environment in jupyter-notebooks, its ipython kernel need to be manually installed.
+3) IPython kernel's [documentation](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)<sup>[1]</sup> suggests that in order to use a conda or virtual python environment in jupyter-notebooks, its ipython kernel need to be manually installed.
 
 4) The commands to do so are the following according to the documentation:
 
@@ -38,3 +37,7 @@ Explanation of
 After installation by navigating to Kernel --> Change kernel again inside Jupyter notebook, the conda environment kernel is present.
 
 ![Alt text](../img/screenshot_conda_kernel.png)
+
+## REFERENCES
+[1]
+“Installing the IPython kernel — IPython 8.13.2 documentation,” ipython.readthedocs.io. https://ipython.readthedocs.io/en/stable/install/kernel_install.html

@@ -1,9 +1,7 @@
 # Section 1
-1) Reading source: https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
-Miniconda 23.10.0 was installed on linux machine.
+1) Miniconda 23.10.0 was installed on linux machine, using information from [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html). <sup>[1]</sup>
 
-2) Reading source: https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
-Conda enables creation of isolated working environments.
+2) Conda enables creation of isolated working environments as according to its getting started guide. <sup>[2]</sup>
 Hence the project will be contained in a python3 virtual environment named myLLMProject, to avoid global side effects.
 
 ```
@@ -20,3 +18,12 @@ conda activate myLLMProject
 conda deactivate
 ```
 
+## REFERENCES
+
+[1]
+“Installing on Linux — conda 23.10.1.dev70 documentation,” docs.conda.io. https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html (accessed Nov. 29, 2023).
+
+‌[2]
+“Getting started with conda — conda 4.10.3.post47+e6936a3d documentation,” docs.conda.io. https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
+‌
