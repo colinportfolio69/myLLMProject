@@ -35,11 +35,21 @@ influenced by the previous word. It is summarized by the following formula:
 >
 >  BOOKS OF WONDER WILLIAM MORROW & CO., INC. NEW YORK
 
-3) Save the edited pg22566.txt file as pg22566_edited.txt. A copy can be found in the /wizardOfOz folder in this repository.
+3) Also delete the texts after the end of the book. i.e. Texts starting after:
 
-Below shows the starting format of the edited file.
+> "Why, in the world, Uncle," answered Zeb, with a laugh.
+>
+> The End
+
+4) Save the edited pg22566.txt file as pg22566_edited.txt. A copy can be found in the /wizardOfOz folder in this repository.
+
+5) Use head command to check that the start of pg22566_edited.txt looks like the following.
 
 ![Alt image](../img/screenshot_delete_texts.png)
+
+6) Use tail command to check that the end of pg22566_edited.txt looks like the following.
+
+![Alt image](../img/screenshot_delete_texts2.png)
 
 
 ## REFERENCES
