@@ -32,5 +32,7 @@ The following python libraries were required:
 ## Instructions
 For a detailed breakdown of steps required to reproduce this project, please navigate to the /Notes directory of this repository and read through each section.
 
+# References
+
 
 
