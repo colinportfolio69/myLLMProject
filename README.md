@@ -6,6 +6,7 @@ See /Notes directory for a breakdown of knowledge learnt during each section of 
 The project content can be reproduced to run on Windows, Mac and Linux OS, provided that dependencies are met.
 
 Google Colab GPUs were imported into the ipykernel of the conda working environment through Pytorch API.
+
 The PyTorch build for the system is shown below:
 
 ![Alt text](./img/screnshot_PyTorch_Build.png)
@@ -16,6 +17,7 @@ The following software packages were used in this project:
 * VMWare Workstation Player 17
 * VScodium version 1.84.0.23306
 * Microsoft C++ Build Tools for Visual Studio Code(Windows users)
+* python3 version 3.10 and newer.
 * python3 pip
 
 The following python libraries were used:
@@ -25,6 +27,9 @@ The following python libraries were used:
 * ipykernel (version 6.27.1)
 * jupyter (version 1.0.0)
 * pytorch (cuda version 11.8)
+
+## Instructions
+For a detailed breakdown of steps required to reproduce this project, please navigate to the /Notes directory of this repository and read through each section.
 
 
 
