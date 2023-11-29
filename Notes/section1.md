@@ -1,8 +1,8 @@
 # Section 1
-1) Miniconda 23.10.0 was installed on linux machine, using information from [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html). <sup>[1]</sup>
+1) Install Miniconda 23.10.0 on workstation, using information from [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html). <sup>[1]</sup>
 
 2) Conda enables creation of isolated working environments as according to its getting started guide. <sup>[2]</sup>
-Hence the project will be contained in a python3 virtual environment named myLLMProject, to avoid global side effects.
+Hence the project will be contained in the conda virtual environment, myLLMProject, to avoid global side effects.
 
 ```
 # Syntax for creating a conda working environment.
@@ -14,7 +14,7 @@ conda create --name myLLMProject
 # Activate virtual environment
 conda activate myLLMProject
 
-# exit virtual env
+# To exit virtual env
 conda deactivate
 ```
 
