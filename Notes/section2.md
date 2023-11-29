@@ -1,3 +1,5 @@
+# Section 2 Install python dependencies. 
+
 1) Python library dependencies were installed into conda working environment.
 These include:
 * Matplotlib for visualization of data, 
