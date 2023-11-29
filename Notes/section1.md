@@ -10,8 +10,6 @@ Hence the project will be contained in a python3 virtual environment named myLLM
 # Syntax for creating a conda working environment.
 conda create --name <name of project>
 
-cd /mnt/hgfs/myLLM/
-
 # Without specifying a python version, the default one in Anaconda will be used for virtual env.
 conda create --name myLLMProject
 

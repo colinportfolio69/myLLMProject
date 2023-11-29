@@ -12,7 +12,7 @@ The PyTorch build for the system is shown below:
 ![Alt text](./img/screnshot_PyTorch_Build.png)
 
 ## Prerequisite installations
-The following software packages were used in this project:
+The following software packages were required:
 * Miniconda 23.10.0 
 * VMWare Workstation Player 17
 * VScodium version 1.84.0.23306
@@ -20,7 +20,7 @@ The following software packages were used in this project:
 * python3 version 3.10 and newer.
 * python3 pip
 
-The following python libraries were used:
+The following python libraries were required:
 * matplotlib (version 3.8.2)
 * numpy (version 1.26.2)
 * pylzma (version 0.5.0)
