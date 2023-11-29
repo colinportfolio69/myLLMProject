@@ -19,6 +19,7 @@ The following software packages were required:
 * Microsoft C++ Build Tools for Visual Studio Code(Windows users)
 * python3 version 3.10 and newer.
 * python3 pip
+* jupyter notebook version 7.0.6
 
 The following python libraries were required:
 * matplotlib (version 3.8.2)
